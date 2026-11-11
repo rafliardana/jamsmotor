@@ -1,0 +1,10 @@
+{
+  "description": "Membantu calon pembeli mobil Jamsmotor mencari dan membandingkan kendaraan, melihat promo, memahami varian, serta memperkirakan cicilan sebelum menghubungi sales.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
